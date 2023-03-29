@@ -1,3 +1,3 @@
 # Social_Tree
  
-Site ativo: https://davigomesm.github.io/Social_Tree/
+Site ativo: https://social-tree-rho-coral.vercel.app
