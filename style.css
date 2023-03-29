@@ -4,13 +4,13 @@ body{
     padding: 0;
 }
 .principal{
-    width: 550px;
-    height: 700px;
+    width: 350px;
+    height: 450px;
     display: flex;
     justify-content: center;
     border: rgb(131, 127, 184) solid 5px;
     text-align: center;
-    margin:  45px auto;
+    margin:  15px auto;
     display: block;
     background-color: rgb(247, 237, 217);
 }
@@ -20,26 +20,29 @@ h2{
 }
 img{
     border-radius: 100%;
-    height: 280px;
-    width: 280px;
+    height: 150px;
+    width: 150px;
     border: solid rgb(131, 127, 184) 5px;
     margin-top: 30px;
 }
 ul{
     margin-left: 0px;
     padding: 0px;
+
 }
 li{
     list-style: none;
+    height: 50px;
     display: flex;
     justify-content: center;
     border: 2px solid rgb(255, 255, 255);
-    margin: 25px;
+    padding: 0px;
+    margin: 5px;
 }
 a{
     text-decoration: none;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
-h3{
+p{
     color: rgb(143, 107, 226);
 }
