@@ -2,6 +2,9 @@ body{
     background-color: rgb(238, 237, 220);
     margin: 0;
     padding: 0;
+    height: 100vh;
+    display: flex;
+    align-items: center;
 }
 .principal{
     width: 350px;
