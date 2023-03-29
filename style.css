@@ -42,6 +42,7 @@ li{
 a{
     text-decoration: none;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    width: 338px;
 }
 p{
     color: rgb(143, 107, 226);
